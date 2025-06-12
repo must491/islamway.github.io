@@ -1,6 +1,10 @@
 body { 
    color: black;
-   background-color: olive;
-   
+   background-image: url("Rose.jpeg");
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 300px;
+  background-repeat: no-repeat;
 }
 
