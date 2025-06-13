@@ -27,8 +27,10 @@ li{
    border-style: inset;
    border-color: pink;
    border-block-style: solid;
-  border-block-color: LavenderBush pink;
-   
+  border-block-color:  pink;
+   border: 3px solid rgba(255, 0, 0, 0.5); /* Red border, 50% transparent */
+       padding: 10px; /* Add padding so you can see the border */
+       background-color: rgba(0, 0, 255, 0.2); 
     
   
    
@@ -38,9 +40,11 @@ li{
     border-style: inset;
    border-color: pink;
    border-block-style: solid;
-  border-block-color: LavenderBush pink;
+  border-block-color: pink;
    block-color:  rgba(255, 0, 0, 0.5);
-   
+   border: 3px solid rgba(255, 0, 0, 0.5); /* Red border, 50% transparent */
+       padding: 10px; /* Add padding so you can see the border */
+       background-color: rgba(0, 0, 255, 0.2); 
    
 }
 
@@ -48,8 +52,10 @@ li{
     border-style: hidden;
    border-color: white;
    border-block-style: solid;
-  border-block-color: LavenderBlue pink;
-   
+  border-block-color: pink;
+   border: 3px solid rgba(255, 0, 0, 0.5); /* Red border, 50% transparent */
+       padding: 10px; /* Add padding so you can see the border */
+       background-color: rgba(0, 0, 255, 0.2); 
     
   
 }
@@ -58,8 +64,10 @@ li{
     border-style: inset;
    border-color: white;
    border-block-style: solid;
-  border-block-color: LavenderBush pink;
- 
+  border-block-color:  pink;
+ border: 3px solid rgba(255, 0, 0, 0.5); /* Red border, 50% transparent */
+       padding: 10px; /* Add padding so you can see the border */
+       background-color: rgba(0, 0, 255, 0.2); 
     
   
 }
@@ -68,7 +76,9 @@ li{
    border-color: white;
    border-block-style: solid;
   border-block-color: LavenderBush pink;
-  
+  border: 3px solid rgba(255, 0, 0, 0.5); /* Red border, 50% transparent */
+       padding: 10px; /* Add padding so you can see the border */
+       background-color: rgba(0, 0, 255, 0.2); 
     
    
 }
@@ -77,22 +87,29 @@ li{
     border-style: hidden;
    border-color: white;
    border-block-style: solid;
-  border-block-color: LavenderBush pink;
-
+  border-block-color: pink;
+border: 3px solid rgba(255, 0, 0, 0.5); /* Red border, 50% transparent */
+       padding: 10px; /* Add padding so you can see the border */
+       background-color: rgba(0, 0, 255, 0.2); 
 }
 
 .haram{
     border-style: inset;
    border-color: white;
    border-block-style: solid;
-  border-block-color: LavenderBush pink;
-
+  border-block-color: pink;
+border: 3px solid rgba(255, 0, 0, 0.5); /* Red border, 50% transparent */
+       padding: 10px; /* Add padding so you can see the border */
+       background-color: rgba(0, 0, 255, 0.2); 
 }
 .halal{
     border-style: inset;
    border-color: white;
    border-block-style: solid;
-  border-block-color: LavenderBush pink;
+  border-block-color:  pink;
+   border: 3px solid rgba(255, 0, 0, 0.5); /* Red border, 50% transparent */
+       padding: 10px; /* Add padding so you can see the border */
+       background-color: rgba(0, 0, 255, 0.2); 
 
 }
 
