@@ -147,6 +147,24 @@ border: 3px solid rgba(255, 0, 0, 0.5); /* Red border, 50% transparent */
        background-color: rgba(0, 0, 255, 0.2); 
 
 }
+.title{
+   width: 100px;
+  height: 100px;
+  background-color: red;
+  position: relative;
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes example {
+  0%   {background-color:red; left:0px; top:0px;}
+  25%  {background-color:yellow; left:200px; top:0px;}
+  50%  {background-color:blue; left:200px; top:200px;}
+  75%  {background-color:green; left:0px; top:200px;}
+  100% {background-color:red; left:0px; top:0px;}
+}
+
 
 
    
