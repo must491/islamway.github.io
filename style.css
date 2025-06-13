@@ -27,11 +27,8 @@ li{
    border-style: inset;
    border-color: white;
    border-block-style: solid;
-  border-block-color: LavenderBush;
-   background-color: lightgrey;
-  inline-size: 70%;
-  border-block-width: 10px;
-    opacity: 0.4;
+  border-block-color: LavenderBush pink;
+   
     
   
    
@@ -41,11 +38,8 @@ li{
     border-style: inset;
    border-color: white;
    border-block-style: solid;
-  border-block-color: LavenderBush;
-   background-color: lightgrey;
-  inline-size: 70%;
-  border-block-width: 10px;
-    opacity: 0.4;
+  border-block-color: LavenderBush pink;
+   
    
 }
 
@@ -53,11 +47,8 @@ li{
     border-style: hidden;
    border-color: white;
    border-block-style: solid;
-  border-block-color: lightblue;
-   background-color: lightgrey;
-  inline-size: 70%;
-  border-block-width: 10px;
-    opacity: 0.4;
+  border-block-color: LavenderBlue pink;
+   
     
   
 }
@@ -66,11 +57,8 @@ li{
     border-style: inset;
    border-color: white;
    border-block-style: solid;
-  border-block-color: LavenderBush;
-   background-color: lightgrey;
-  inline-size: 70%;
-  border-block-width: 10px;
- opacity: 0.4;
+  border-block-color: LavenderBush pink;
+ 
     
   
 }
@@ -78,11 +66,8 @@ li{
     border-style: inset;
    border-color: white;
    border-block-style: solid;
-  border-block-color: LavenderBush;
-   background-color: lightgrey;
-  inline-size: 70%;
-  border-block-width: 10px;
-    opacity: 0.4;
+  border-block-color: LavenderBush pink;
+  
     
    
 }
@@ -91,35 +76,23 @@ li{
     border-style: hidden;
    border-color: white;
    border-block-style: solid;
-  border-block-color: LavenderBush;
-   background-color: lightgrey;
-  inline-size: 70%;
-  border-block-width: 10px;
-     opacity: 0.4;
-  
+  border-block-color: LavenderBush pink;
+
 }
 
 .haram{
     border-style: inset;
    border-color: white;
    border-block-style: solid;
-  border-block-color: LavenderBush;
-   background-color: lightgrey;
-  inline-size: 70%;
-  border-block-width: 10px;
-    opacity: 0.4;
-    
+  border-block-color: LavenderBush pink;
+
 }
 .halal{
     border-style: inset;
    border-color: white;
    border-block-style: solid;
-  border-block-color: LavenderBush;
-   background-color: lightgrey;
-  inline-size: 70%;
-  border-block-width: 10px;
-     opacity: 0.4;
-  
+  border-block-color: LavenderBush pink;
+
 }
 
 
