@@ -31,6 +31,10 @@ li{
    border: 3px solid rgba(255, 0, 0, 0.5); /* Red border, 50% transparent */
        padding: 10px; /* Add padding so you can see the border */
        background-color: rgba(0, 0, 255, 0.2); 
+    border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
     
   
    
@@ -45,6 +49,10 @@ li{
    border: 3px solid rgba(255, 0, 0, 0.5); /* Red border, 50% transparent */
        padding: 10px; /* Add padding so you can see the border */
        background-color: rgba(0, 0, 255, 0.2); 
+    border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
    
 }
 
@@ -56,6 +64,10 @@ li{
    border: 3px solid rgba(255, 0, 0, 0.5); /* Red border, 50% transparent */
        padding: 10px; /* Add padding so you can see the border */
        background-color: rgba(0, 0, 255, 0.2); 
+    border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
     
   
 }
@@ -64,10 +76,15 @@ li{
     border-style: inset;
    border-color: pink;
    border-block-style: solid;
+   
   
  border: 3px solid rgba(255, 0, 0, 0.5); /* Red border, 50% transparent */
        padding: 10px; /* Add padding so you can see the border */
        background-color: rgba(0, 0, 255, 0.2); 
+    border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
     
   
 }
@@ -75,10 +92,14 @@ li{
     border-style: inset;
    border-color: pink;
    border-block-style: solid;
- ;
+
   border: 3px solid rgba(255, 0, 0, 0.5); /* Red border, 50% transparent */
        padding: 10px; /* Add padding so you can see the border */
        background-color: rgba(0, 0, 255, 0.2); 
+    border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
     
    
 }
@@ -91,21 +112,29 @@ li{
 border: 3px solid rgba(255, 0, 0, 0.5); /* Red border, 50% transparent */
        padding: 10px; /* Add padding so you can see the border */
        background-color: rgba(0, 0, 255, 0.2); 
+    border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
 }
 
 .haram{
     border-style: inset;
    border-color: pink;
    border-block-style: solid;
-
+ border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
 border: 3px solid rgba(255, 0, 0, 0.5); /* Red border, 50% transparent */
        padding: 10px; /* Add padding so you can see the border */
        background-color: rgba(0, 0, 255, 0.2); 
 }
 .halal{
-    border-style: inset;
-   border-color: pink;
-   border-block-style: solid;
+    border-top-style: dotted;
+  border-right-style: solid;
+  border-bottom-style: dotted;
+  border-left-style: solid;
   
    border: 3px solid rgba(255, 0, 0, 0.5); /* Red border, 50% transparent */
        padding: 10px; /* Add padding so you can see the border */
