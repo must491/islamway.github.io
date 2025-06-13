@@ -24,6 +24,7 @@ li{
 }
 
 .Nafl {
+     border-radius: 12px;
    border-style: inset;
    border-color: pink;
    border-block-style: solid;
@@ -41,6 +42,7 @@ li{
    
 }
 .fard{
+     border-radius: 12px;
     border-style: inset;
    border-color: pink;
    border-block-style: solid;
@@ -57,6 +59,7 @@ li{
 }
 
 .wajib {
+     border-radius: 12px;
     border-style: hidden;
    border-color: pink;
    border-block-style: solid;
@@ -73,6 +76,7 @@ li{
 }
 
 .sunnah{
+   border-radius: 12px;
     border-style: inset;
    border-color: pink;
    border-block-style: solid;
@@ -89,6 +93,7 @@ li{
   
 }
 .islam{
+     border-radius: 12px;
     border-style: inset;
    border-color: pink;
    border-block-style: solid;
@@ -105,6 +110,7 @@ li{
 }
 
 .Iman{
+     border-radius: 12px;
     border-style: hidden;
    border-color: pink;
    border-block-style: solid;
@@ -119,8 +125,7 @@ border: 3px solid rgba(255, 0, 0, 0.5); /* Red border, 50% transparent */
 }
 
 .haram{
-    border-style: inset;
-   border-color: pink;
+   border-radius: 12px;
    border-block-style: solid;
  border-top-style: dotted;
   border-right-style: solid;
@@ -131,6 +136,7 @@ border: 3px solid rgba(255, 0, 0, 0.5); /* Red border, 50% transparent */
        background-color: rgba(0, 0, 255, 0.2); 
 }
 .halal{
+     border-radius: 12px;
     border-top-style: dotted;
   border-right-style: solid;
   border-bottom-style: dotted;
