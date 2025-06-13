@@ -24,50 +24,50 @@ li{
 }
 
 .Nafl {
-   border-style: ridge;
+   border-style: hidden;
    border-color: white;
-   font-family: fantasy;
+  
    
    
 }
 .fard{
-    border-style: ridge;
+    border-style: hidden;
    border-color: white;
-   font-family: fantasy;
+  
 }
 
 .wajib {
-    border-style: ridge;
+    border-style: hidden;
    border-color: white;
-   font-family: fantasy;
+  
 }
 
 .sunnah{
-    border-style: ridge;
+    border-style: hidden;
    border-color: white;
-   font-family: fantasy;
+  
 }
 .islam{
     border-style: ridge;
    border-color: white;
-   font-family: fantasy;
+   
 }
 
 .Iman{
-    border-style: ridge;
+    border-style: hidden;
    border-color: white;
-   font-family: fantasy;
+  
 }
 
 .haram{
-    border-style: ridge;
+    border-style: hidden;
    border-color: white;
-   font-family: fantasy;
+  
 }
 .halal{
-    border-style: ridge;
+    border-style: hidden;
    border-color: white;
-   font-family: fantasy;
+  
 }
 
 
