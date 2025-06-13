@@ -28,6 +28,10 @@ li{
    border-color: white;
    border-block-style: solid;
   border-block-color: LavenderBush;
+   background-color: lightgrey;
+  inline-size: 70%;
+  border-block-width: 10px;
+    opacity: 0.5;
   
    
    
@@ -37,14 +41,21 @@ li{
    border-color: white;
    border-block-style: solid;
   border-block-color: pink lightblue;
-  
+   background-color: lightgrey;
+  inline-size: 70%;
+  border-block-width: 10px;
+   opacity: 0.5;
 }
 
 .wajib {
     border-style: hidden;
    border-color: white;
    border-block-style: solid;
-  border-block-color: pink lightblue;
+  border-block-color: lightblue;
+   background-color: lightgrey;
+  inline-size: 70%;
+  border-block-width: 10px;
+    opacity: 0.5;
   
 }
 
@@ -53,6 +64,10 @@ li{
    border-color: white;
    border-block-style: solid;
   border-block-color: LavenderBush;
+   background-color: lightgrey;
+  inline-size: 70%;
+  border-block-width: 10px;
+    opacity: 0.5;
   
 }
 .islam{
@@ -60,6 +75,10 @@ li{
    border-color: white;
    border-block-style: solid;
   border-block-color: LavenderBush;
+   background-color: lightgrey;
+  inline-size: 70%;
+  border-block-width: 10px;
+    opacity: 0.5;
    
 }
 
@@ -68,6 +87,10 @@ li{
    border-color: white;
    border-block-style: solid;
   border-block-color: LavenderBush;
+   background-color: lightgreen;
+  inline-size: 70%;
+  border-block-width: 10px;
+    opacity: 0.5;
   
 }
 
@@ -76,12 +99,20 @@ li{
    border-color: white;
    border-block-style: solid;
   border-block-color: LavenderBush;
+   background-color: lightgrey;
+  inline-size: 70%;
+  border-block-width: 10px;
+    opacity: 0.5;
 }
 .halal{
     border-style: inset;
    border-color: white;
    border-block-style: solid;
   border-block-color: LavenderBush;
+   background-color: lightgrey;
+  inline-size: 70%;
+  border-block-width: 10px;
+    opacity: 0.5;
   
 }
 
