@@ -26,6 +26,8 @@ li{
 .Nafl {
    border-style: inset;
    border-color: white;
+   border-block-style: solid;
+  border-block-color: LavenderBush;
   
    
    
@@ -33,40 +35,53 @@ li{
 .fard{
     border-style: inset;
    border-color: white;
+   border-block-style: solid;
+  border-block-color: pink lightblue;
   
 }
 
 .wajib {
     border-style: hidden;
    border-color: white;
+   border-block-style: solid;
+  border-block-color: pink lightblue;
   
 }
 
 .sunnah{
     border-style: inset;
    border-color: white;
+   border-block-style: solid;
+  border-block-color: LavenderBush;
   
 }
 .islam{
     border-style: inset;
    border-color: white;
+   border-block-style: solid;
+  border-block-color: LavenderBush;
    
 }
 
 .Iman{
     border-style: hidden;
    border-color: white;
+   border-block-style: solid;
+  border-block-color: LavenderBush;
   
 }
 
 .haram{
     border-style: inset;
    border-color: white;
-  
+   border-block-style: solid;
+  border-block-color: LavenderBush;
 }
 .halal{
     border-style: inset;
    border-color: white;
+   border-block-style: solid;
+  border-block-color: LavenderBush;
   
 }
 
