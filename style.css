@@ -31,6 +31,7 @@ li{
    background-color: lightgrey;
   inline-size: 70%;
   border-block-width: 10px;
+    opacity: 0.4;
     
   
    
@@ -40,10 +41,11 @@ li{
     border-style: inset;
    border-color: white;
    border-block-style: solid;
-  border-block-color: pink lightblue;
+  border-block-color: LavenderBush;
    background-color: lightgrey;
   inline-size: 70%;
   border-block-width: 10px;
+    opacity: 0.4;
    
 }
 
@@ -55,6 +57,7 @@ li{
    background-color: lightgrey;
   inline-size: 70%;
   border-block-width: 10px;
+    opacity: 0.4;
     
   
 }
@@ -67,6 +70,7 @@ li{
    background-color: lightgrey;
   inline-size: 70%;
   border-block-width: 10px;
+ opacity: 0.4;
     
   
 }
@@ -78,6 +82,7 @@ li{
    background-color: lightgrey;
   inline-size: 70%;
   border-block-width: 10px;
+    opacity: 0.4;
     
    
 }
@@ -87,10 +92,10 @@ li{
    border-color: white;
    border-block-style: solid;
   border-block-color: LavenderBush;
-   background-color: lightgreen;
+   background-color: lightgrey;
   inline-size: 70%;
   border-block-width: 10px;
-    
+     opacity: 0.4;
   
 }
 
@@ -102,6 +107,7 @@ li{
    background-color: lightgrey;
   inline-size: 70%;
   border-block-width: 10px;
+    opacity: 0.4;
     
 }
 .halal{
@@ -112,7 +118,7 @@ li{
    background-color: lightgrey;
   inline-size: 70%;
   border-block-width: 10px;
-    
+     opacity: 0.4;
   
 }
 
