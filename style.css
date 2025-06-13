@@ -24,14 +24,14 @@ li{
 }
 
 .Nafl {
-   border-style: hidden;
+   border-style: inset;
    border-color: white;
   
    
    
 }
 .fard{
-    border-style: hidden;
+    border-style: inset;
    border-color: white;
   
 }
@@ -43,12 +43,12 @@ li{
 }
 
 .sunnah{
-    border-style: hidden;
+    border-style: inset;
    border-color: white;
   
 }
 .islam{
-    border-style: ridge;
+    border-style: inset;
    border-color: white;
    
 }
@@ -60,12 +60,12 @@ li{
 }
 
 .haram{
-    border-style: hidden;
+    border-style: inset;
    border-color: white;
   
 }
 .halal{
-    border-style: hidden;
+    border-style: inset;
    border-color: white;
   
 }
